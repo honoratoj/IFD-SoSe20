@@ -5,4 +5,3 @@
 <a href="https://github.com/honoratoj/IFD-SoSe20/blob/master/Aufgabe%20%2301/Aufgabe%20%2301.pdf">Aufgabe #01</a>
 <br>
 
- [ Aufgabe #02.1 ](GUI/gui.html)
