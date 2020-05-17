@@ -4,5 +4,5 @@
 <br>
 <a href="https://github.com/honoratoj/IFD-SoSe20/blob/master/Aufgabe%20%2301/Aufgabe%20%2301.pdf">Aufgabe #01</a>
 <br>
-<a href="GUI/gui.html">Aufgabe #02</a>
+<a href="file:///Users/jessicahonorato/Documents/GitHub/IFD-SoSe20/Aufgabe%20%2302/gui.html">Aufgabe #02</a>
 
