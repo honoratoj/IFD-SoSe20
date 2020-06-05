@@ -1,0 +1,66 @@
+<!--************************************/
+/* HTML für IFD VUI */
+/************************************/-->
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>VUI - Technischer Durchstrich</title>
+    <link rel="stylesheet" href="main.css" />
+
+    <link rel="stylesheet" href="https://use.typekit.net/kid2ffs.css" />
+    <link rel="stylesheet" href="https://use.typekit.net/kid2ffs.css" />
+    <link rel="stylesheet" href="https://use.typekit.net/kid2ffs.css" />
+    <link
+      href="//db.onlinewebfonts.com/c/2180f4b494c36099cda06e9715f15bda?family=GraphikLCGBold"
+      rel="stylesheet"
+      type="text/css"
+    />
+
+    <script src="js/libs/artyom.window.min.js"></script>
+    <script src="js/playgroud-artyom-script.js"></script>
+    <script src="js/artyom.window.min.js"></script>
+  </head>
+
+  <body>
+    <div class="text">
+      <h1>Aufgabe #05</h1>
+      <br>
+      <br>
+      <br>
+
+      <div class="centerbtn">
+        <button class="button" id="btn">Allow Voice Synthesis</button>
+      </div>
+      <br>
+      <br>
+   
+
+<p>Hallo Clara</p>
+
+<p>Verschaffe mir einen Überblick über die Krankmeldungen, Werk 3, Besteht Handlungsbedarf, Erstelle eine Erinnerung</p>
+
+<p>Nenne mir die Produktionszahlen</p>
+
+<p>Nenne mir die angefallenen Kosten für Werk 2</p>
+
+<p>Ich Bitte um eine Analyse, Analyse 1</p>
+
+</div>
+
+   <script>
+      var Jarvis = new Artyom();
+
+      // Needed user interaction at least once in the website to make
+      // it work automatically without user interaction later... thanks google .i.
+      document.getElementById("btn").addEventListener(
+        "click",
+        function() {
+          Jarvis.say("It's on.");
+        },
+        false
+      );
+    </script>
+  </body>
+</html>
