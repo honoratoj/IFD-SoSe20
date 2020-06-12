@@ -11,5 +11,7 @@
 <a href="https://tortu.io/share/645377">Aufgabe #04</a>
 <br>
 <a href="Aufgabe05/vui.1.html">Aufgabe #05</a>
+<br>
+<a href="Aufgabe05/vui.2.html">Aufgabe #05.2</a>
 
 
