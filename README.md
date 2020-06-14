@@ -12,6 +12,8 @@
 <br>
 <a href="Aufgabe05/vui.1.html">Aufgabe #05</a>
 <br>
+<a href="Aufgabe06/aufgabe6.html">Aufgabe #06</a>
+<br>
 
 
 
