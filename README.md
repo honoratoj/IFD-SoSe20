@@ -14,6 +14,8 @@
 <br>
 <a href="Aufgabe06/aufgabe6.html">Aufgabe #06</a>
 <br>
+<a href="Aufgabe07/aufgabe7.html">Aufgabe #07</a>
+<br>
 
 
 
