@@ -16,5 +16,8 @@
 <br>
 <a href="Aufgabe08/aufgabe8.html">Aufgabe #08</a>
 <br>
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 03f1514a1f631bcdc07edd352ecff8a1e1e077c4
