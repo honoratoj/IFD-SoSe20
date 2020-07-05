@@ -6,7 +6,7 @@
         <meta name="description" content="" />
         <meta name="author" content="" />
         <title>UI Design</title>
-        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="Aufgabe09/assets/img/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -14,7 +14,7 @@
         <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
         <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="css/styles.css" rel="stylesheet" />
+        <link href="Aufgabe09/css/styles.css" rel="stylesheet" />
     </head>
     <body id="page-top">
        
@@ -40,7 +40,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/Aufgabe00.jpg" alt="" />
+                                <img class="img-fluid" src="Ausgabe09/assets/img/portfolio/Aufgabe00.jpg" alt="" />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Aufgabe#00</div>
